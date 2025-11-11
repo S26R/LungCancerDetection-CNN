@@ -3,6 +3,8 @@
 A Deep Learning–based web application that detects lung cancer from CT scan images using a **Convolutional Neural Network (CNN)**.  
 Built with **TensorFlow**, **Keras**, **OpenCV**, and **Streamlit**, this project demonstrates how computer vision can assist in medical diagnosis by classifying lung tissue images as **Normal**, **Adenocarcinoma (Benign)**, or **Squamous Cell Carcinoma (Malignant)**.
 
+***The lung_cancer_model.keras couldnt be uploaded since the file size was more than 25MB.***
+
 ---
 
 ## Project Overview

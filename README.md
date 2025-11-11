@@ -37,6 +37,8 @@ This project uses a **CNN-based image classifier** to analyze CT scan images of 
 
 ## How to Run Locally
 
+## Download Dataset: https://drive.google.com/drive/folders/191EMrBzqJ9qnf9NxEUa-mBXYIni2uyMc?usp=sharing
+
 ### Clone the Repository
 ```bash
 git clone https://github.com/YOUR_USERNAME/Lung-Cancer-Detection.git
